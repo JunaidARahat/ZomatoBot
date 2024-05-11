@@ -1,7 +1,7 @@
 # ZomatoBot
 
 
-# Chainlit demo
+# Chainlit 
 
 Chainlit is like Streamlit for LLM app development :)
 
